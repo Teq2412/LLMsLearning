@@ -1,10 +1,12 @@
 # LLMsLearning
 A personal list of fundamental yet important topics of (M)LLMs
+
+
 ## LLMSys
 ### Quantization
 * SmoothQuant 
 ### Speculative Decoding
-* [Speculative Decoding](https://arxiv.org/abs/2211.17192)
+* [Overview](https://github.com/hemingkx/SpeculativeDecodingPapers?tab=readme-ov-file#blog--project)
 ### Model Tracing
 ### FlashAttention
 ### Distillation
